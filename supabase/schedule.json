@@ -1,0 +1,9 @@
+{
+  "functions": [
+    {
+      "name": "cron-email-reminders",
+      "schedule": "0 * * * *",
+      "method": "POST"
+    }
+  ]
+}
